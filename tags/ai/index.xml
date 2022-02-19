@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on otamajakusi</title>
+    <link>https://otamajakusi.github.io/tags/ai/</link>
+    <description>Recent content in AI on otamajakusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Feb 2022 14:24:45 +0900</lastBuildDate><atom:link href="https://otamajakusi.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>麻雀.AI 得点君</title>
+      <link>https://otamajakusi.github.io/repos/tile-score/</link>
+      <pubDate>Sat, 19 Feb 2022 14:24:45 +0900</pubDate>
+      
+      <guid>https://otamajakusi.github.io/repos/tile-score/</guid>
+      <description>麻雀.AI 得点君</description>
+    </item>
+    
+  </channel>
+</rss>
