@@ -1,0 +1,1 @@
+# otamajakusi.github.io
