@@ -6,14 +6,23 @@
     <description>Recent content in Lambda on otamajakusi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Feb 2022 14:24:45 +0900</lastBuildDate><atom:link href="https://otamajakusi.github.io/tags/lambda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 11:55:15 +0900</lastBuildDate><atom:link href="https://otamajakusi.github.io/tags/lambda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メーターはかる君</title>
+      <link>https://otamajakusi.github.io/repos/analog-meter/</link>
+      <pubDate>Sat, 09 Apr 2022 11:55:15 +0900</pubDate>
+      
+      <guid>https://otamajakusi.github.io/repos/analog-meter/</guid>
+      <description>メーターはかる君   プライバシーポリシー</description>
+    </item>
+    
     <item>
       <title>麻雀.AI 得点君</title>
       <link>https://otamajakusi.github.io/repos/tile-score/</link>
       <pubDate>Sat, 19 Feb 2022 14:24:45 +0900</pubDate>
       
       <guid>https://otamajakusi.github.io/repos/tile-score/</guid>
-      <description>麻雀.AI 得点君   </description>
+      <description>麻雀.AI 得点君   プライバシーポリシー</description>
     </item>
     
   </channel>
