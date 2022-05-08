@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>otamajakusi</title>
-    <link>https://otamajakusi.github.io/</link>
+    <link>https://blog.otamajakusi.net/</link>
     <description>Recent content on otamajakusi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Feb 2022 14:34:06 +0900</lastBuildDate><atom:link href="https://otamajakusi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 14:34:06 +0900</lastBuildDate><atom:link href="https://blog.otamajakusi.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>メーターはかる君</title>
-      <link>https://otamajakusi.github.io/repos/analog-meter/</link>
+      <link>https://blog.otamajakusi.net/repos/analog-meter/</link>
       <pubDate>Sat, 09 Apr 2022 11:55:15 +0900</pubDate>
       
-      <guid>https://otamajakusi.github.io/repos/analog-meter/</guid>
+      <guid>https://blog.otamajakusi.net/repos/analog-meter/</guid>
       <description>メーターはかる君   プライバシーポリシー</description>
     </item>
     
     <item>
       <title>麻雀.AI 得点君</title>
-      <link>https://otamajakusi.github.io/repos/tile-score/</link>
+      <link>https://blog.otamajakusi.net/repos/tile-score/</link>
       <pubDate>Sat, 19 Feb 2022 14:24:45 +0900</pubDate>
       
-      <guid>https://otamajakusi.github.io/repos/tile-score/</guid>
+      <guid>https://blog.otamajakusi.net/repos/tile-score/</guid>
       <description>麻雀.AI 得点君   プライバシーポリシー</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://otamajakusi.github.io/privacy/</link>
+      <link>https://blog.otamajakusi.net/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://otamajakusi.github.io/privacy/</guid>
+      <guid>https://blog.otamajakusi.net/privacy/</guid>
       <description>プライバシーポリシー   画像/メディア/ファイル(USB ストレージのコンテンツの読み取り、USB ストレージのコンテンツの変更または削除）
  撮影した画像をストレージに保存するために利用しています    ストレージ（USB ストレージのコンテンツの読み取り、USB ストレージのコンテンツの変更または削除）
  撮影した画像をストレージに保存するために利用しています    カメラ（画像と動画の撮影）
