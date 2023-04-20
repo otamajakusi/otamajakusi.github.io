@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on otamajakusi</title>
-    <link>https://blog.otamajakusi.net/tags/</link>
+    <link>https://otamajakusi.github.io/tags/</link>
     <description>Recent content in Tags on otamajakusi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 Apr 2022 11:55:15 +0900</lastBuildDate><atom:link href="https://blog.otamajakusi.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 11:55:15 +0900</lastBuildDate><atom:link href="https://otamajakusi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
